@@ -29,7 +29,7 @@ Atualmente estou focando em construir uma base sólida em lógica de programaç�
 * **O que usei:** Java
 * ➡️ [Ver Repositório](https://github.com/alessonalvesg10/APS-Programacao.git)
 
-🔹 APS Lógica Matemática - Pensamento de tabela verdade
+### 🔹 APS Lógica Matemática - Pensamento de tabela verdade
 * **Descrição:** Código desenvolvido utilizando lógica proposicional como base para a tomada de decisões. O sistema monitora a saúde e as condições da planta para, quando necessário, realizar ações automatizadas como ativar a irrigação, recolher o toldo retrátil ou acionar defesas contra pragas.
 * **O que usei:** Java.
 * ➡️ [Ver Repositório:](https://github.com/CoDynames/Smart-Garden.git)
